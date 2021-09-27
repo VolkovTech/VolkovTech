@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @VolkovTech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 My name is **Andrey Volkov** and I work as a backend developer at [Tinkoff Bank](https://tinkoff.ru/). 
 
-<!---
-VolkovTech/VolkovTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 I mostly code in **Java/Kotlin and Python**, developing distributed infrastructure services.
+
+💞️ I love creating really useful things and making awesome products for users.
+
+👀 I'm interested in Machine Learning & Data Science projects.
+
+📫 You can contact me via <a target="_blank" href="https://t.me/VolkovTech">telegram</a> or andrey@volkov.tech.
+
+📄 The resume is available [here](https://volkov.tech/cv_andrey_volkov.pdf).

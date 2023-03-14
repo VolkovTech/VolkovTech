@@ -1,6 +1,6 @@
-👋 My name is **Andrey Volkov** and I work as a backend developer at [Tinkoff Bank](https://tinkoff.ru/). 
+👋 My name is **Andrey Volkov** and I'm a software engineer at [Tinkoff Bank](https://tinkoff.ru/). 
 
-👨‍💻 I mostly code in **Java/Kotlin and Python**, developing distributed infrastructure services.
+👨‍💻 I mostly code in **Go, Java/Kotlin and Python**, developing distributed microservices and building consistent infrastructure.
 
 💞️ I love creating really useful things and making awesome products for users.
 
